@@ -1,0 +1,19 @@
+{
+  "name": "decoffee",
+  "version": "0.1.0",
+  "description": "Un coffeescripts stuff",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cchamberlain/decoffee.git"
+  },
+  "author": "Cole Chamberlain",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cchamberlain/decoffee/issues"
+  },
+  "homepage": "https://github.com/cchamberlain/decoffee#readme"
+}
